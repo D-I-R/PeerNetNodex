@@ -12,3 +12,5 @@
 3. Реализовать приложение для моделирования block-chain;
 4. Подготовить документацию.
 ![Demonstration](images/round_play_gif.gif)
+
+
